@@ -1,0 +1,24 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "Node.js Simple Calculator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/averyirin/comp2068-lab3.git"
+  },
+  "author": "Irin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/averyirin/comp2068-lab3/issues"
+  },
+  "homepage": "https://github.com/averyirin/comp2068-lab3#readme",
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "connect": "^3.5.0"
+  }
+}
